@@ -1,10 +1,10 @@
 Hi 👋 My name is Hoàng Thanh Sơn
 ================================
 
-Data Analysis
+Data Engineer
 -------------
 
-Hello! My name is Hoàng Thanh Sơn. You can call me Sơn. I am currently a year 2 student at University of Information And Technology.
+Hello! My name is Hoàng Thanh Sơn. You can call me Sơn. I am currently a year 33 student at University of Information And Technology.
 
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [hoanghongson0412@gmail.com](mailto:hoanghongson0412@gmail.com)
