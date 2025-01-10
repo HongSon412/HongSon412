@@ -8,7 +8,7 @@ Hello! My name is Hoàng Thanh Sơn. You can call me Sơn. I am currently a year
 
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [hoanghongson0412@gmail.com](mailto:hoanghongson0412@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Python, Machine Learning, Artificial Inteligence, SQL and Database  
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a Messi fan
 
