@@ -15,7 +15,7 @@
   
  ✉️  You can contact me at **[hoanghongson0412@gmail.com](mailto:hoanghongson0412@gmail.com)**
 
- 🧠  I'm learning **Python, Machine Learning, Artificial Inteligence, SQL and Database**  
+ 🧠  I'm learning **Machine Learning, Artificial Inteligence, SQL, Database and Big Data**  
  
  🤝  I'm open to collaborating on **Projects**
  
@@ -54,18 +54,14 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HongSon412&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
 <br/><br/>
 
 <hr/>
 
 <br/>
 
-
-</div>
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thank+you+for+visiting!;+また来週！" /> 
+</h1>
 
 <br/>
-
-
-
-</div>
